@@ -6,6 +6,7 @@ const tileHeight = canvas.height / d
 const tileColor = '#ccccff'
 const canvasColor = '#eee'
 canvas.style.backgroundColor = canvasColor
+
 class Tile
 {
     constructor(i, j, n)
